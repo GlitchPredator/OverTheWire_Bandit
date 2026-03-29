@@ -6,7 +6,7 @@
 This repository serves as a personal log for my progress on the [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) wargame.
 
 ### 📂 Contents
-* **`solutions.txt`**: A compiled reference of the flags/keys captured for each level.
+* **`solutions.data`**: A compiled reference of the flags/keys captured for each level.
 
 ---
 *Note: This is for my personal progress tracking and reference.*
